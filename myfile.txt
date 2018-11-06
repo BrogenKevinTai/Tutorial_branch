@@ -9,3 +9,4 @@ pull 取得遠端數據庫的內容
 新增一個遠端Branch，並修改內容。
 
 新增一個遠端Branch，測試pull Branch功能。
+新增一個本地Branch，測試push Branch功能。
